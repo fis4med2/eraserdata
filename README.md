@@ -124,4 +124,49 @@ MIT – see [LICENSE](LICENSE) for details.
 
 ## Contributing
 
-Feel free to submit issues or pull requests. Improvements are welcome!
+This is an **open source** project — contributions are welcome and encouraged!
+
+### How to Contribute
+
+1. **Fork** this repository on GitHub.
+2. **Clone** your fork locally:
+   ```bash
+   git clone https://github.com/your-username/eraserdata.git
+   cd eraserdata
+   ```
+3. **Create a branch** for your change:
+   ```bash
+   git checkout -b feature/my-improvement
+   ```
+4. **Make your changes** and commit:
+   ```bash
+   git commit -m "Add my improvement"
+   ```
+5. **Push** to your fork:
+   ```bash
+   git push origin feature/my-improvement
+   ```
+6. **Open a Pull Request** against `main` describing what you changed and why.
+
+### Ways You Can Help
+
+- Report **bugs** and **issues** with clear reproduction steps.
+- Suggest **new features** or improvements.
+- Improve **documentation** and translations.
+- Submit **pull requests** for fixes, refactors, or new functionality.
+- Help test on different platforms (Windows, macOS, Linux distros).
+
+### Code Guidelines
+
+- Keep changes focused and atomic (one purpose per PR).
+- Follow the existing code style in the repo.
+- Test your changes before submitting a PR.
+- Be respectful and constructive in discussions.
+
+### License
+
+By contributing, you agree that your contributions will be licensed under the **MIT License** (see [LICENSE](LICENSE)).
+
+---
+
+**This is a free, open source project. Use it, study it, modify it, and share it.** 🛡️
